@@ -1,0 +1,6 @@
+{
+  "name": "CivicAI — Autonomous Civic Intelligence & Action Engine",
+  "description": "AI-powered municipal intelligence platform transforming civic complaints into explainable priority scoring, geospatial hotspot clustering, deduplication, and trackable public actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
